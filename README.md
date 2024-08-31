@@ -8,23 +8,26 @@ User case
 #TODO: Vishnu Sai. Please add the context
 - Plugin different projects
 
-1. Decide mentrics which would be used to get the output. Efficiency?
-   - Decide schema.
+1. Determine the metrics to evaluate outcomes (e.g., efficiency).
+   - Define the schema.
+   - ....
 
-2. Data
-  We need a dataset with historical:
+2. Data:
      - tickets
      - Developers
      - QA
      - Devops
-     - Timeline
-3. User interaction
+     - Timelines
+       
+3. User Interaction
    - AI Chat
+     
 4. Twilio message
 
 
-Legus,
-- Vector (RAG)
+Tools:
+
+- Vector (RAG) => Legus,
 
 
 
